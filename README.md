@@ -1,1 +1,1 @@
-# Created a simple Sign-up PAge using shell scripting
+# Created a simple Sign-up Page using shell scripting
